@@ -3,6 +3,7 @@ const routes = {
   404: "/views/404.html",
   "/": "/views/home.html",
   "/about": "/views/about.html",
+  "/contact": "/views/contact.html",
 };
 
 const handleLocation = async () => {
